@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/*=============================
+    Text color sider design
+===============================*/
+
+.text-tushar{
+  color: blue;
+}
+
+.text-aditto{
+ color: gray;
+}
+
+.text-mahfuz{
+  color: red;
+}
+
+.text-mamun{
+ color: green;
+}
+
+.text-jibon{
+  color: yellow;
+}
+
+.text-mridul{
+color: black;
+}
+
+
+.text-hamidul{
+  color: deeppink;
+}
+
+.text-ibrahim{
+  color: white;
+}
+.text-rayhan{
+color: aqua;
+}
+
+
+
+/*=============================
+    Background sider design
+===============================*/
+
+.bg-tushar{
+  background-color: blue;
+}
+
+.bg-aditto{
+  background-color: gray;
+}
+
+.bg-mahfuz{
+  background-color: red;
+}
+
+.bg-mamun{
+  background-color: green;
+}
+
+.bg-jibon{
+  background-color: yellow;
+}
+
+.bg-mridul{
+  background-color: black;
+}
+
+
+.bg-hamidul{
+  background-color: deeppink;
+}
+
+.bg-ibrahim{
+  background-color: white;
+}
+.bg-rayhan{
+  background-color: aqua;
+}
+
+
+
+
+
+
+
